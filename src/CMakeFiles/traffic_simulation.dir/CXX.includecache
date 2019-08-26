@@ -31,6 +31,8 @@ TrafficObject.h
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/TrafficObject.h
 
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.cpp
+mutex
+-
 iostream
 -
 thread
