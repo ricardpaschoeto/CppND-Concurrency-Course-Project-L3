@@ -6,20 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Graphics.cpp
-iostream
--
-opencv2/core.hpp
--
-opencv2/imgproc.hpp
--
-opencv2/highgui.hpp
--
-Graphics.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Graphics.h
-Intersection.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.h
-
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Graphics.h
 string
 -
@@ -29,26 +15,6 @@ opencv2/core.hpp
 -
 TrafficObject.h
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/TrafficObject.h
-
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.cpp
-mutex
--
-iostream
--
-thread
--
-chrono
--
-future
--
-random
--
-Street.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Street.h
-Intersection.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.h
-Vehicle.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Vehicle.h
 
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.h
 vector
@@ -62,27 +28,7 @@ memory
 TrafficObject.h
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/TrafficObject.h
 
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Street.cpp
-iostream
--
-Vehicle.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Vehicle.h
-Intersection.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.h
-Street.h
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Street.h
-
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Street.h
-TrafficObject.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/TrafficObject.h
-
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/TrafficObject.cpp
-iostream
--
-chrono
--
-algorithm
--
 TrafficObject.h
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/TrafficObject.h
 
@@ -109,18 +55,6 @@ Intersection.h
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.h
 Graphics.h
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Graphics.h
-
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Vehicle.cpp
-iostream
--
-random
--
-Street.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Street.h
-Intersection.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Intersection.h
-Vehicle.h
-/home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Vehicle.h
 
 /home/paschoeto/workspace/concurrency/lesson03/L3_Project/src/Vehicle.h
 TrafficObject.h
